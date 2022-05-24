@@ -10,3 +10,4 @@
 + Install Papirus-Folders program
 + Inside Papirus Theme Nord Folders Folder do `./install.sh` 
 + After installing the new colors do `papirus-folders -C polarnight1 --theme Papirus-Dark`
++ Download and apply the wallpaper with the theme name.
